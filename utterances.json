@@ -1,3 +1,4 @@
 {
-  "origins": ["https://shawn-dev.me"]
+  "origins": ["https://shawn-dev.me",
+             "https://www.shawn-dev.me"]
 }
